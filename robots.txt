@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://MaxymMelnykov.github.io/TGChatBot-Landing/sitemap.xml
