@@ -7,6 +7,3 @@
 - Основна гілка `main`
 - Розробка нових фіч у `feature/*` гілках
 - Об’єднання через pull request
-
-## Деплой
-Проєкт опубліковано через GitHub Pages: [переглянути сайт](https://yourusername.github.io/bachelor-landing/)
